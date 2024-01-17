@@ -45,4 +45,9 @@ l'objectif est de proposer des solutions pour conforter l'usage du cache http au
 - [] Rendre paramétrable le choix du cache applicatif avec un choix par défaut et un connecteur par défaut
 - [] Tests
 
+## Utiliser également [RAML](raml.org)
+
+- OAS et RAML semblent complémentaires : https://blogs.mulesoft.com/dev-guides/open-api-raml-better-together/
+- Conf sur RAML : https://www.youtube.com/watch?v=4oLUXZXUZYc
+
 ## Trouver des cas similaires dans la littérature (au niveau des clients http)
