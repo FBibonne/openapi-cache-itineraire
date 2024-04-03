@@ -71,4 +71,11 @@ https://plugins.jetbrains.com/plugin/8433-openapi-generator
 https://openapi-generator.tech/docs/generators/spring/
 https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator-maven-plugin
 https://openapi-generator.tech/docs/generators/java/
-https://github.com/OpenAPITools/openapi-generator/blob/master/modules/openapi-generator/src/main/resources/JavaSpring/api.mustache
+https://github.com/OpenAPITools/openapi-generator/blob/master/modules/openapi-generator/src/main/resources/JavaSpring/api.mustach
+
+## Utiliser également [RAML](raml.org)
+
+- OAS et RAML semblent complémentaires : https://blogs.mulesoft.com/dev-guides/open-api-raml-better-together/
+- Conf sur RAML : https://www.youtube.com/watch?v=4oLUXZXUZYc
+
+
