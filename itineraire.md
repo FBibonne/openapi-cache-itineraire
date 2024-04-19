@@ -58,7 +58,7 @@ l'objectif est de proposer des solutions pour conforter l'usage du cache http au
 - [] Générer des annotations dans les clients pour utiliser un cache applicatif en lien avec les headers cache http 
 - [] Implémenter une lib qui utilise les annotations et les headers http sur les clients pour alimenter un cache applicatif
 - [] Rendre paramétrable le choix du cache applicatif avec un choix par défaut et un connecteur par défaut
-- [] Tests
+- [] Tests : utiliser wiremock pour tester ?
 
 ## Trouver des cas similaires dans la littérature (au niveau des clients http)
 
