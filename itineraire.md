@@ -64,6 +64,9 @@ l'objectif est de proposer des solutions pour conforter l'usage du cache http au
 
 ## Quelques liens
 
+**Référence importante :**
+https://maciejwalkowiak.com/blog/spring-boot-openapi-generate-client/
+
 https://github.com/OpenAPITools/openapi-generator/blob/master/docs/customization.md
 https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator/src/main/resources/Java
 https://github.com/OpenAPITools/openapi-generator/blob/master/docs/generators/java.md
